@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="BingImages/BingImages.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.9.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BingImages/SecondViewController.cs">
+    <Files>
+      <File FileName="BingImages.Shared/BingHelper.cs" Line="1" Column="1" />
+      <File FileName="BingImages.Shared/BingResult.cs" Line="1" Column="1" />
+      <File FileName="BingImages/Info.plist" />
+      <File FileName="BingImages/SecondViewController.cs" Line="31" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

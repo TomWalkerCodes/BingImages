@@ -1,0 +1,16 @@
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.ibtool-output.plist
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/10-view-15.nib
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UINavigationController-8.nib
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-10.nib
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/optimized/Default-568h@2x.png
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/optimized/Entitlements.plist
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/optimized/
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/bin/iPhoneSimulator/Debug/BingImages.exe.mdb
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/bin/iPhoneSimulator/Debug/BingImages.exe
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/BingImages.exe
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/obj/iPhoneSimulator/Debug/BingImages.exe.mdb
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/bin/iPhoneSimulator/Debug/SDWebImage.dll
+/Users/tomwalker/Documents/Presentations/Building iOS applications with Xamarin and C#/Demo/BingImages/BingImages/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

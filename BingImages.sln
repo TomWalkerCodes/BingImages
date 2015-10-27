@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingImages", "BingImages\BingImages.csproj", "{AA6004A7-BB1F-4089-9194-28EAA2A40B99}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "BingImages.Shared", "BingImages.Shared\BingImages.Shared.shproj", "{06783718-E470-4C2C-AE98-4D73B9323F25}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		BingImages.Shared\BingImages.Shared.projitems*{06783718-e470-4c2c-ae98-4d73b9323f25}*SharedItemsImports = 13
+		BingImages.Shared\BingImages.Shared.projitems*{aa6004a7-bb1f-4089-9194-28eaa2a40b99}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Release|iPhone.Build.0 = Release|iPhone
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AA6004A7-BB1F-4089-9194-28EAA2A40B99}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
